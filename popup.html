@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>popup页</title>
+	<meta charset="utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="./css/index.css">
+	<link rel="stylesheet" href="./css/style.css">
+	<style>
+		body {
+			font-family: 'Microsoft Yahei';
+			width: 500px;
+			min-height: 100px;
+		}
+
+		a {
+			margin-right: 10px;
+		}
+		p {
+			padding-left: 20px;
+		}
+		.tips {
+			font-size: 14px;
+		}
+		a {
+			text-decoration: none;
+			color: blue;
+		}
+	</style>
+</head>
+
+<body>
+	<h1>chrome无缓存模式</h1>
+	<div class="toggle toggle--text">
+		<input type="checkbox" id="toggle--text" class="toggle--checkbox">
+		<label class="toggle--btn" for="toggle--text" data-label-on="on" data-label-off="off"></label>
+	</div>
+	<p class="tips">1.开启将进入无缓存模式，适用于开发调试，对数据要求高的应用;</p>
+	<p class="tips">2.浏览其他网页，建议关闭该项;</p>
+	<p>resource code：<a href="https://github.com/maixiaojie/chrome-nocache">https://github.com/maixiaojie/chrome-nocache</a></p>
+	<p>author info：<a href="https://maixiaojie.github.io/">https://maixiaojie.github.io/</a></p>
+</body>
+
+<script src="./js/popup.js"></script>
+</html>
