@@ -7,9 +7,9 @@
 
 能够方便的进行控制。
 
-![switch](./cap/img1.png)
-
 Easy to control.
+
+![switch](./cap/img1.png)
 
 ### 适用人群 (For people)
 
@@ -19,6 +19,28 @@ This plugin is suitable for all browser-related developers, some problems caused
 
 ### 使用方法 (How to use)
 
-下载`/dist/webRequest.crx`
+1. download `/dist/webRequest.crx`.
 
-download`/dist/webRequest.crx`
+2. enter `chrome://extensions/`.
+
+![switch](./cap/img2.png)
+
+3. drag the download file into the page body.
+
+4.when the chrome load the pligins, you will see this:
+
+![switch](./cap/img3.png)
+
+5. ok, then you will controll them.
+
+### 问题 (issue)
+
+**email: tracywyj@gmail.com**
+
+你可以直接提issue或者发邮件给我。
+
+you can pull new issue or email to me.
+
+### other
+
+if this plugins can help you, please give me a star, thank you ~
