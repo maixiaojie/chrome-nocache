@@ -27,7 +27,7 @@ This plugin is suitable for all browser-related developers, some problems caused
 
 3. drag the download file into the page body.
 
-4.when the chrome load the pligins, you will see this:
+4. when the chrome load the pligins, you will see this:
 
 ![switch](./cap/img3.png)
 
