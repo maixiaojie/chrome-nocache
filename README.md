@@ -7,6 +7,8 @@
 
 能够方便的进行控制。
 
+![switch](./cap/img1.png)
+
 Easy to control.
 
 ### 适用人群 (For people)
@@ -14,3 +16,9 @@ Easy to control.
 此插件适合所有浏览器相关的开发者，开发过程中缓存问题导致的一些问题，可以尝试使用此插件。
 
 This plugin is suitable for all browser-related developers, some problems caused by caching problems during development, you can try this plugin.
+
+### 使用方法 (How to use)
+
+下载`/dist/webRequest.crx`
+
+download`/dist/webRequest.crx`
