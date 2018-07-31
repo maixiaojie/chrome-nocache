@@ -3,11 +3,11 @@
 
 > A chrome browser plugin that makes all requests uncached.
 
-### 自定义开关 (Custom switch)
+### Custom switch
 
-能够方便的进行控制。
+- Easy to control.
 
-Easy to control.
+- no f12, no devtools.
 
 ![switch](./cap/img1.png)
 
